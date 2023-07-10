@@ -1,10 +1,14 @@
+import React from "react";
 import "./App.css";
+import Header from "./Header";
 
 function App() {
   return (
     //BEM Convention
     <div className="app">
-      <h1> Hello there Mr Dileep! Let's build this Amazon website! </h1>
+      {/* Header stuff here */}
+      <Header />
+      {/* Home stuff here */}
     </div>
   );
 }

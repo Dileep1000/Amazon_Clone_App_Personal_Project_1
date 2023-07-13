@@ -7,7 +7,7 @@ function Header() {
   return (
     <div class="header">
       <img
-        src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcJbAuFNp8xoawKH1kNsNG5-F6ES6TU5HynQ&usqp=CAU"
+        src="https://pngimg.com/uploads/amazon/amazon_PNG11.png"
         class="header_logo"
         alt="amazon logo"
       ></img>
